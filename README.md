@@ -18,7 +18,7 @@
 #### 🔸 [LearnVerse](https://github.com/Parthiv30)  
 A full-stack MERN platform for personalized learning & notes sharing. Features course delivery, public/private notes, progress charts, auto-generated certificates, and badge rewards.
 
-#### 🔸 [Village Chef](https://github.com/Parthiv30)  
+#### 🔸 [Village Chef](https://github.com/Village-Chef/Village_Chef)  
 Online food ordering system with customer/admin panels, OTP-based login, PDF receipts, Razorpay integration, and analytics dashboard.
 
 #### 🔸 Edge e-Bulletin  
